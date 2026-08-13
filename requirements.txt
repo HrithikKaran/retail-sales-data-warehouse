@@ -73,6 +73,7 @@ psycopg2-binary==2.9.12
 ptyprocess==0.7.0
 pure_eval==0.2.3
 py4j==0.10.9.9
+pyarrow==25.0.1
 pycparser==3.0
 Pygments==2.20.0
 pyspark==4.2.0
